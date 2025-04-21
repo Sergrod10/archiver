@@ -1,0 +1,1 @@
+a.out -a -b -c -d -e -qwerty
